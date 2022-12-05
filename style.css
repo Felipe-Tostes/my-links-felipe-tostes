@@ -62,6 +62,7 @@ a:hover {
 footer{
     color: white;
     font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 20px;
 }
 .container {
     background-color: none;
